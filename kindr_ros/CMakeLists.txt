@@ -22,6 +22,7 @@ set(dependencies
   Eigen3
   tf2
   geometry_msgs
+  kindr
 )
 
 install(DIRECTORY include/${PROJECT_NAME}/
